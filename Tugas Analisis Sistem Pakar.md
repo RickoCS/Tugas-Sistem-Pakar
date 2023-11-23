@@ -17,7 +17,7 @@ Antarmuka pengguna secara khusus memanfaatkan fragmen peta dari Google Maps V2 u
 termasuk proses pencarian alamat tujuan, perbandingan jarak antara posisi pengguna dan koordinat rute yang terhubung, dan pengelolaan serta penyajian rute sebagai daftar yang mudah dipahami oleh pengguna. Dengan demikian, 
 sistem ini dirancang untuk memberikan pengalaman pengguna yang terpadu dan efisien dalam merencanakan perjalanan dengan transportasi umum. <br />
  
-**Mesin Interference**<br />
+**Mesin Inference**<br />
 
 Algoritma Depth First Search (DFS) yang digunakan dalam sistem pakar ini  adalah untuk melakukan penelusuran pada graf atau pohon yang dimulai dari simpul akar (root) dan mengeksplorasi sejauh mungkin sepanjang setiap cabang sebelum mundur. 
 Pada setiap simpul, algoritma DFS akan mengunjungi anak simpul pertama yang bertetangga dengan simpul akar dan melanjutkan penelusuran ke tingkat terdalamnya sebelum kembali ke simpul lain yang juga bertetangga dengan simpul akar.<br />
