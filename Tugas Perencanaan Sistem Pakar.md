@@ -14,7 +14,7 @@ Setelah pengguna memasukan beberapa kriteria yang tersedia pada halaman utama te
 Kemudian pengguna dapat memilih beberapa hasil rekomendasi tempat wisata yang sudah diberikan. Apabila pengguna sudah memilih tempat wisata yang merupakan hasil rekomendasi tempat wisata ini, maka pengguna akan dialihkan menuju Google Maps untuk ditampilkan 
 rute menuju tempat wisata tersebut dari titik koordinat pengguna. Pada Google Maps tersebut akan diberikan informasi mengenai jarak tempuh dan perkiraan waktu perjalanan menuju tempat wisata tersebut.<br />    
  
-**Mesin Interferance**<br />
+**Mesin Inference**<br />
 Metode inferensi yang digunakan dalam  perencanaa sistem pakar ini adalah forward chaining. Forward chaining adalah strategi inferensi yang digunakan dalam sistem pakar berbasis aturan. 
 Dalam strategi ini, sistem pakar akan menelusuri pohon inferensi yang dikembangkan dengan model pohon keputusan.  Pohon keputusan tersebut berisikan data masukan berupa kriteria-kriteria menuju pada konklusi, yaitu obyek wisata yang dicari.<br />
 
